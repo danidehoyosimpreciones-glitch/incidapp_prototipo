@@ -4,8 +4,12 @@ Aplicación móvil para reportar, dar seguimiento y gestionar **incidencias** (e
 
 **Trabajo Colaborativo Contextualizado (TCC) — Desarrollo de APPs 2026-2**
 
-- **Integrantes:** *(completar con los nombres del equipo)*
+- **Integrantes:** Isaías Gonzales Torres, Samuel Portillo, Marisol Teheran Carvajal y Daniela Judith Villalba de Hoyos
 - **Versión:** 1.0 (entrega final)
+- **Universidad:** Universidad de Cartagena, Centro Tutorial Cereté · Ingeniería de Software
+- **Tutor:** Domingo Galeano
+- **Servidor publicado:** https://incidapp-app.onrender.com
+- **Descargar el APK:** https://drive.google.com/file/d/1OfmFFaitKr0kFIvjKdzdms5DXKfNkA7F/view?usp=sharing
 
 ---
 
